@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "a javascript-based service handler for mongodb",
   "main": "index.js",
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/noahdietz/leash-js.git"
+  },
   "dependencies": {
     "forever-monitor": "^1.7.0"
   },
